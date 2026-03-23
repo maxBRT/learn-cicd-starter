@@ -16,7 +16,7 @@ func TestGetApiKey(t *testing.T) {
 		{
 			name:          "valid header",
 			headerKey:     "Authorization",
-			headerValue:   "ApiKeyhelloworld",
+			headerValue:   "ApiKey helloworld",
 			expected:      "helloworld",
 			errorExpected: false,
 		},
