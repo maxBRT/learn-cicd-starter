@@ -1,4 +1,4 @@
-![text](https://github.com/maxbrt/learn-cicd-starter/actions/workflows/ci/badge.svg)
+![text](https://github.com/maxbrt/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
